@@ -1,4 +1,4 @@
-### CS4_Q1_Week4_HigherOrLower
+# CS4_Q1_Week4_HigherOrLower
 
 ## Task
 
